@@ -1,5 +1,7 @@
 import module as ms
 
+ms.Owner_name()
+
 # ms.secret_key(1254152)
 
 # result = ms.multiply(55,66)
