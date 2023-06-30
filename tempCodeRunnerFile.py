@@ -1,1 +1,1 @@
-  print("Something else went wrong")
+y.read()
