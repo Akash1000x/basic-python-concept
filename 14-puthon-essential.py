@@ -14,7 +14,6 @@ tempsum = 0
 for i in citytemp:
     i = i.rstrip("\n")
     cityname,temprature,unit = i.split(',')
-    # print(i)
 
     if unit=="C":
         temprature = (float(temprature)*9/5)+32
